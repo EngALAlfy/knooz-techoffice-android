@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129321161998",
+    "project_id": "knooz-c39ff",
+    "storage_bucket": "knooz-c39ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129321161998:android:687fc29b87eceb98fc735f",
+        "android_client_info": {
+          "package_name": "knooz.techoffice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129321161998-v4t1b0o4bc644dqs6fjm7udkb17femrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCDAPPIHVIELA4Fkaqp7iX0NrARgNrgbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129321161998-v4t1b0o4bc644dqs6fjm7udkb17femrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
